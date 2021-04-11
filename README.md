@@ -1,2 +1,2 @@
 # techvus
-Created with CodeSandbox
+Serverless React App.
